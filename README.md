@@ -10,4 +10,4 @@ Replace the contents of this file with the completed assignments, as described i
 
 ### App Map
 
-![appmap](ux-design\SmartChoiceAppMap-SiteMap.drawio.png)
+![appmap](https://github.com/software-students-fall2021/user-experience-design-pengfan-z/blob/main/ux-design/SmartChoiceAppMap-SiteMap.drawio.png)
